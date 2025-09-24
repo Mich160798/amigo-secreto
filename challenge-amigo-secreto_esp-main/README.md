@@ -23,4 +23,4 @@ Solo abre el archivo `index.html` en tu navegador.
 Tras subir el proyecto a GitHub, actívalo en **Settings → Pages** para verlo online.
 
 ---
-📖 **Autor:** Tu Nombre
+📖 **Autor:** Michel Garcia
